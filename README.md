@@ -8,5 +8,5 @@ Se implementarán las siguientes actividades:
 1. Instalar y configurar una base de datos InfluxDB 3
 2. Generar el token de acceso para la base de datos
 3. Instalar el driver de InfluxDB para Python
-4. Se presentará el ejemplo de almacenamiento hacia InfluxDB usando Python
-5. Se presentará la instalación y configuración de Grafana para la genración de reportes y gráficas
+4. Se presentará el ejemplo en Python para el almacenamiento de información hacia InfluxDB
+5. Se presentará la instalación y configuración de Grafana para la generación de reportes y gráficas
