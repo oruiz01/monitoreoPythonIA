@@ -44,11 +44,21 @@
     URL:               http://localhost:8181
     Database:          documentos
     Token:             apiv3_XXXXXX (Este valor se obtuvo en el módulo 2. InfluxDB)
-![image](https://github.com/user-attachments/assets/a682545f-179f-44f5-9288-87c1b9e96a41)
-![image](https://github.com/user-attachments/assets/f9399bda-c4d3-4fc9-924b-72dcfc642f6a)
+    Insescure Connection: Habilitado
 
-
+![image](https://github.com/user-attachments/assets/22e68b30-6dab-4c22-9475-3c6da886fab3)
+    
     Al final de la página seleccionamos Save & test
+![image](https://github.com/user-attachments/assets/2ce72374-6d99-4c59-8525-ee7bb0493a23)
+
+    Si marca error de conexión:
+    - Crea un nuevo Token (Ver módulo 2. InfluxDB)
+    - En la página en el campo Token selecciona Reset 
+    - Pega el nuevo valor del token
+    - Valida la conexión
+
+
+
 
 
 
