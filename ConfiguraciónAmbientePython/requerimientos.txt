@@ -1,0 +1,27 @@
+
+pip install numpy pandas matplotlib tdqm ipywidgets unidecode zipfile36 python-magic pyarrow 
+pip install docx2txt python-docx cleantext PyMuPDF google-cloud-documentai
+# Procesamiento de lenguaje natural
+pip install flashtext stanza langchain chromadb
+pip install XlsxWriter
+pip install google-auth google-api google-cloud-storage google-cloud-core
+pip install docling
+pip install pyqt5 pyqtwebengine daal pathlib ruamel-yaml spyder
+pip install ocrmypdf
+pip install pymupdf4llm
+pip install textacy
+pip install -U sentence-transformers
+pip install natsort
+pip install -U pip setuptools Wheel
+pip install -U spacy
+pip install langchain-chroma
+pip install langchain 
+pip install langchain_community
+pip install sentence-transformers
+pip install -U grpcio-status==1.67
+pip install -U grpcio==1.67
+pip install pymilvus
+pip install markdown
+
+python -m spacy download en_core_web_trf
+python -m spacy download es_dep_news_trf
