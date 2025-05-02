@@ -28,7 +28,6 @@
 ### 6. Listamos las tablas
     influxdb3 query --database=documentos "SHOW TABLES"
 
-
 ## B. Video
 Este video presenta instalación y configuación de InfluxDB 3.
 
