@@ -1,0 +1,9 @@
+Estas pruebas se realizaron en Ubuntu 24.04
+  
+1. Validamos que tenemos instalado Python 3
+
+2. Creamos un ambiente virtual
+
+3. Instalamos los prerrequisitos
+
+4. Ejecutamos Jupyther
