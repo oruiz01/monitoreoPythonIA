@@ -1,4 +1,4 @@
-### Archivo:        InfluxDBWriter.py
+### Archivo:        modulo_influxdb3.py
 ### Versión:        1.0
 ### Autor:          Oscar Ruiz / oscarruiz@ciencias.unam.mx
 ### Fecha:          México, 7 de mayo 2025
