@@ -62,7 +62,7 @@ WWWW:: End write
 ```
 
 
-# Aplicación 2: Módulo de almacenamiento en InfluxDB con Python
+# Aplicación 2: Módulo Python para almacenamiento en InfluxDB
 
 ### 1. Creamos un archivo con el nombre modulo_influxdb3.py
 
