@@ -54,7 +54,8 @@ print("WWWW:: End write")
 
 ### 6. Ejecutamos la aplicación
 ```bash
-(venv) admon@ubuntu02:~/curso07Mayo2025$ python InfluxDBWriter.py
+export INFLUXDB3_AUTH_TOKEN=apiv3_XXXXX
+python InfluxDBWriter.py
 WWWW:: Start write
 cpu,application=webserver,host=host01,region=us-west status="OK",usage_percent=20.5,val="1"
 WWWW:: End write
