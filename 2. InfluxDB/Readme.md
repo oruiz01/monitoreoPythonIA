@@ -31,10 +31,4 @@
 ## B. Video
 Este video presenta instalación y configuación de InfluxDB 3.
 
-Se recomienda:
-- Hacer click en la imágen con *botón derecho de mouse*
-- Seleccionar *Copy link* del video
-- Abrir el navegador *Brave*
-- Pegar el URL y reproducir el video
 
-[![ MonitoreoIA - InfluxDB 3 - Oscar Ruiz ](https://i.ytimg.com/vi/IbWKj72ifxI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5zqS3EuEXf9HneHWOyVnCc0FoGA)](https://www.youtube.com/watch?v=IbWKj72ifxI)
